@@ -5,7 +5,7 @@ This is a single-page application (SPA) built with Angular that allows users to 
 ## 🚀 Deployment Link
 You can access the deployed version: 
 
-https://fyle-internship-challenge-23-mzwk.vercel.app/
+https://fyle-internship-may.vercel.app/
 
 ## 🌟 Features
 
